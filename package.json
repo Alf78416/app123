@@ -1,0 +1,21 @@
+{
+  "name": "cocina_escolar_app",
+  "version": "1.0.0",
+  "description": "Backend API Cocina Escolar (Express + MySQL)",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "mysql2": "^3.24.2"
+  }
+}
